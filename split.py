@@ -4,6 +4,9 @@ import shutil
 
  
  
+
+
+ 
  
 def moveFile(input1,input2,save1,save2):
     pathDir = os.listdir(input1)  # 取图片的原始路径
